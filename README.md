@@ -1,1 +1,1 @@
-Shell project repository
+Shell redirections and filters project
