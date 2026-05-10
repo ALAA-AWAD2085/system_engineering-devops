@@ -1,1 +1,1 @@
-Shell basics tasks covering navigation and file management.
+My first shell project
